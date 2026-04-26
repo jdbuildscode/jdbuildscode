@@ -19,7 +19,7 @@
 ---
 
 ## 📊 Current Status
-> Day 1. Zero experience. Full commitment.
+> > Day 1 ✅ — Wrote first HTML and CSS. First webpage live on CodePen.
 
 ---
 
