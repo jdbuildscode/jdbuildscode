@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hey, I'm JD Builds 👋
 
-<!--
-**jdbuildscode/jdbuildscode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Learning frontend development from absolute zero  
+💻 Current focus: HTML → CSS → JavaScript → React  
+📅 Started: April 26, 2026  
+🎯 Goal: Remote frontend developer  
+🛠️ Building in public — daily commits, daily posts  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🗺️ My Roadmap
+- [ ] HTML & CSS
+- [ ] JavaScript
+- [ ] Git & GitHub
+- [ ] React
+- [ ] First freelance client
+- [ ] Remote job
+
+---
+
+## 📊 Current Status
+> Day 1. Zero experience. Full commitment.
+
+---
+
+## 🔗 Find Me
+- X: [@jdbuildscode](https://x.com/jdbuildscode)
