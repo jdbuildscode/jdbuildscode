@@ -20,7 +20,7 @@
 
 ## 📊 Current Status
 > > Day 1 ✅ — Wrote first HTML and CSS. First webpage live on CodePen.
-> >  Day 2 ✅ — Learning HTML tags and building JD Builds landing page.
+> > Day 2 ✅ — Learning HTML tags and building JD Builds landing page.
 
 ---
 
