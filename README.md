@@ -21,7 +21,7 @@
 ## 📊 Current Status
 > > Day 1 ✅ — Wrote first HTML and CSS. First webpage live on CodePen.
 > > Day 2 ✅ — Built first landing page. Learned div, ul, li, a tags. CSS classes, hover effects, visual hierarchy.
-> >  Day 3 ✅ — Learning CSS Flexbox. Building professional layout.
+> > Day 3 ✅ — Learned CSS Flexbox. Built navbar, hero section, cards layout. Starting to look real.
 
 ---
 
