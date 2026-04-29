@@ -25,6 +25,8 @@
 > Day 2 ✅ — Built first landing page. Learned div, ul, li, a tags. CSS classes, hover effects, visual hierarchy.
 
 > Day 3 ✅ — Learned CSS Flexbox. Built navbar, hero section, cards layout. Starting to look real.
+
+> Day 4 ✅ — Learning CSS transitions and hover effects. Making the page feel alive.
 ---
 
 ## 🔗 Find Me
