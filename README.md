@@ -26,7 +26,7 @@
 
 > Day 3 ✅ — Learned CSS Flexbox. Built navbar, hero section, cards layout. Starting to look real.
 
-> Day 4 ✅ — Learning CSS transitions and hover effects. Making the page feel alive.
+> Day 4 ✅ — CSS transitions, transform, box-shadow, rgba colors, hover effects. Page feels alive now.
 ---
 
 ## 🔗 Find Me
