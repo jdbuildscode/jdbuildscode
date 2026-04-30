@@ -27,6 +27,8 @@
 > Day 3 ✅ — Learned CSS Flexbox. Built navbar, hero section, cards layout. Starting to look real.
 
 > Day 4 ✅ — CSS transitions, transform, box-shadow, rgba colors, hover effects. Page feels alive now.
+
+> Day 5 ✅ — Installing VS Code and Git. Pushing first real project to GitHub. 
 ---
 
 ## 🔗 Find Me
