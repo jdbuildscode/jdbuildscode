@@ -28,7 +28,7 @@
 
 > Day 4 ✅ — CSS transitions, transform, box-shadow, rgba colors, hover effects. Page feels alive now.
 
-> Day 5 ✅ — Installing VS Code and Git. Pushing first real project to GitHub. 
+> Day 5 ✅ — Installed VS Code and Git. Pushed first project to GitHub. Green squares begin.
 ---
 
 ## 🔗 Find Me
