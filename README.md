@@ -32,7 +32,7 @@
 
 > Day 6 ✅ — First JavaScript. Variables, functions, DOM manipulation. Page thinks and responds now.
 
-> Day 7 ✅ — JavaScript arrays, loops and conditions. Building logic into webpages.
+> Day 7 ✅ — JavaScript arrays, loops, conditions. Built a skill filter with real logic. One week done.
 ---
 
 ## 🔗 Find Me
