@@ -31,6 +31,8 @@
 > Day 5 ✅ — Installed VS Code and Git. Pushed first project to GitHub. Green squares begin.
 
 > Day 6 ✅ — First JavaScript. Variables, functions, DOM manipulation. Page thinks and responds now.
+
+> Day 7 ✅ — JavaScript arrays, loops and conditions. Building logic into webpages.
 ---
 
 ## 🔗 Find Me
