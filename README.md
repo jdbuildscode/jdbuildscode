@@ -33,6 +33,8 @@
 > Day 6 ✅ — First JavaScript. Variables, functions, DOM manipulation. Page thinks and responds now.
 
 > Day 7 ✅ — JavaScript arrays, loops, conditions. Built a skill filter with real logic. One week done.
+
+> Day 8 ✅ — JavaScript DOM events and local storage. Building a real todo app.
 ---
 
 ## 🔗 Find Me
