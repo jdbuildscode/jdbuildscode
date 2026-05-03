@@ -34,7 +34,8 @@
 
 > Day 7 ✅ — JavaScript arrays, loops, conditions. Built a skill filter with real logic. One week done.
 
-> Day 8 ✅ — JavaScript DOM events and local storage. Building a real todo app.
+> Day 8 ✅ — Built and deployed Todo app. First live project on the internet. 
+🔗 graceful-bombolone-19a17a.netlify.app
 ---
 
 ## 🔗 Find Me
