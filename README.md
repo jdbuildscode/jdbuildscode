@@ -37,7 +37,8 @@
 > Day 8 ✅ — Built and deployed Todo app. First live project on the internet. 
 🔗 graceful-bombolone-19a17a.netlify.app
 
-> > Day 9 ✅ — Learning localStorage. Todo app data saves after page refresh.
+> Day 9 ✅ — Added localStorage to todo app. Tasks now survive page refresh and browser close.
+🔗 visionary-druid-711fde.netlify.app
 ---
 
 ## 🔗 Find Me
