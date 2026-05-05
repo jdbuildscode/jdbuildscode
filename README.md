@@ -39,6 +39,8 @@
 
 > Day 9 ✅ — Added localStorage to todo app. Tasks now survive page refresh and browser close.
 🔗 visionary-druid-711fde.netlify.app
+
+>  Day 10 ✅ — Starting my personal portfolio website.The one that gets me hired.
 ---
 
 ## 🔗 Find Me
