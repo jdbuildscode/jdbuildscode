@@ -43,7 +43,7 @@
 > Day 10 ✅ — Built and deployed personal portfolio.
 🔗 jd-builds-portfolio.netlify.app
 
-> Day 11 ✅ — Deepening JavaScript knowledge.Building from memory not copy paste.
+> Day 11 ✅ — Fetch API and live data. App talks to the internet and displays real data in real time.
 ---
 
 ## 🔗 Find Me
