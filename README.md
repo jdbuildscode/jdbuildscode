@@ -44,6 +44,8 @@
 🔗 jd-builds-portfolio.netlify.app
 
 > Day 11 ✅ — Fetch API and live data. App talks to the internet and displays real data in real time.
+
+> Day 12 ✅ — Building a real weather app with live API data.
 ---
 
 ## 🔗 Find Me
