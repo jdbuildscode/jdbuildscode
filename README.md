@@ -46,6 +46,8 @@
 > Day 11 ✅ — Fetch API and live data. App talks to the internet and displays real data in real time.
 
 > Day 12 ✅ — Built weather app with OpenWeather API.Live temperature, humidity, wind speed for any city.
+
+> Day 13 ✅ — Improving portfolio and learning responsive design. Mobile friendly websites.
 ---
 
 ## 🔗 Find Me
