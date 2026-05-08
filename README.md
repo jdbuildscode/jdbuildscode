@@ -47,7 +47,7 @@
 
 > Day 12 ✅ — Built weather app with OpenWeather API.Live temperature, humidity, wind speed for any city.
 
-> Day 13 ✅ — Improving portfolio and learning responsive design. Mobile friendly websites.
+> Day 13 ✅ — Added responsive design to portfolio.Looks great on phone, tablet and laptop.
 ---
 
 ## 🔗 Find Me
