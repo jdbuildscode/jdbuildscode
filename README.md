@@ -48,6 +48,8 @@
 > Day 12 ✅ — Built weather app with OpenWeather API.Live temperature, humidity, wind speed for any city.
 
 > Day 13 ✅ — Added responsive design to portfolio.Looks great on phone, tablet and laptop.
+
+> Day 14 ✅ — Two weeks done. Zero missed days.Learning JavaScript DOM events deeply today.
 ---
 
 ## 🔗 Find Me
