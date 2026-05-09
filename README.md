@@ -50,6 +50,8 @@
 > Day 13 ✅ — Added responsive design to portfolio.Looks great on phone, tablet and laptop.
 
 > Day 14 ✅ — Two weeks done. Zero missed days.Learning JavaScript DOM events deeply today.
+
+> Day 14 ✅ — JavaScript events deeply. Keyboard, mouse, form validation, dataset, forEach, addEventListener.
 ---
 
 ## 🔗 Find Me
