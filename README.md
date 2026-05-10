@@ -52,6 +52,8 @@
 > Day 14 ✅ — Two weeks done. Zero missed days.Learning JavaScript DOM events deeply today.
 
 > Day 14 ✅ — JavaScript events deeply. Keyboard, mouse, form validation, dataset, forEach, addEventListener.
+
+> Day 15 ✅ — Solo build day. Building a project completely on my own. No hand holding.
 ---
 
 ## 🔗 Find Me
