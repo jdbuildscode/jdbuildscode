@@ -53,7 +53,7 @@
 
 > Day 14 ✅ — JavaScript events deeply. Keyboard, mouse, form validation, dataset, forEach, addEventListener.
 
-> Day 15 ✅ — Solo build day. Building a project completely on my own. No hand holding.
+> Day 15 ✅ — Built a full quiz app SOLO. No help. No copy paste. Just code.
 ---
 
 ## 🔗 Find Me
