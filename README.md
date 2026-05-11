@@ -54,6 +54,8 @@
 > Day 14 ✅ — JavaScript events deeply. Keyboard, mouse, form validation, dataset, forEach, addEventListener.
 
 > Day 15 ✅ — Built a full quiz app SOLO. No help. No copy paste. Just code.
+
+> Day 16 ✅ — React starts today. The biggest step of the journey.
 ---
 
 ## 🔗 Find Me
