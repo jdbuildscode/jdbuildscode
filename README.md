@@ -56,6 +56,8 @@
 > Day 15 ✅ — Built a full quiz app SOLO. No help. No copy paste. Just code.
 
 > Day 16 ✅ — React starts. Components, props, JSX. The biggest step of the journey.
+
+> Day 17 ✅ — Learning useState. React starts thinking and reacting.
 ---
 
 ## 🔗 Find Me
