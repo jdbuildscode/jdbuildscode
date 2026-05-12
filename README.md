@@ -57,7 +57,8 @@
 
 > Day 16 ✅ — React starts. Components, props, JSX. The biggest step of the journey.
 
-> Day 17 ✅ — Learning useState. React starts thinking and reacting.
+> Day 17 ✅ — useState hook. Counter, controlled inputs, dark mode toggle, dynamic lists. React clicks.
+> 
 ---
 
 ## 🔗 Find Me
