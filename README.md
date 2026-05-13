@@ -57,7 +57,7 @@
 
 > Day 17 ✅ — useState hook. Counter, controlled inputs, dark mode toggle, dynamic lists. React clicks.
 
-> Day 18 ✅ — useEffect hook. React talks to the outside world. Weather app in React.
+> Day 18 ✅ — useEffect hook. Weather app rebuilt in React. API calls, localStorage, dependency array.
 ---
 
 ## 🔗 Find Me
