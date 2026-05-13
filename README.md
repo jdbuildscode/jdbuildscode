@@ -49,8 +49,6 @@
 
 > Day 13 ✅ — Added responsive design to portfolio.Looks great on phone, tablet and laptop.
 
-> Day 14 ✅ — Two weeks done. Zero missed days.Learning JavaScript DOM events deeply today.
-
 > Day 14 ✅ — JavaScript events deeply. Keyboard, mouse, form validation, dataset, forEach, addEventListener.
 
 > Day 15 ✅ — Built a full quiz app SOLO. No help. No copy paste. Just code.
@@ -58,7 +56,8 @@
 > Day 16 ✅ — React starts. Components, props, JSX. The biggest step of the journey.
 
 > Day 17 ✅ — useState hook. Counter, controlled inputs, dark mode toggle, dynamic lists. React clicks.
-> 
+
+> Day 18 ✅ — useEffect hook. React talks to the outside world. Weather app in React.
 ---
 
 ## 🔗 Find Me
