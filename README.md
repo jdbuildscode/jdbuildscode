@@ -58,6 +58,8 @@
 > Day 17 ✅ — useState hook. Counter, controlled inputs, dark mode toggle, dynamic lists. React clicks.
 
 > Day 18 ✅ — useEffect hook. Weather app rebuilt in React. API calls, localStorage, dependency array.
+
+> Day 19 ✅ — Building a GitHub Profile Finder.Real project. Real API. Real React.
 ---
 
 ## 🔗 Find Me
