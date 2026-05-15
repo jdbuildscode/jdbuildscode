@@ -61,7 +61,8 @@
 
 > Day 19 ✅ — Built GitHub Profile Finder in React.Multiple API calls, components, props, useState.
 
-> Day 20 ✅ — Building an Expense Tracker.Biggest React project yet.
+> Day 20 ✅ — Built and deployed Expense Tracker in React.Categories, totals, filtering, localStorage. 
+🔗 expense-tracker-day20.netlify.app
 ---
 
 ## 🔗 Find Me
