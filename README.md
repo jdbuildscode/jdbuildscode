@@ -60,6 +60,8 @@
 > Day 18 ✅ — useEffect hook. Weather app rebuilt in React. API calls, localStorage, dependency array.
 
 > Day 19 ✅ — Built GitHub Profile Finder in React.Multiple API calls, components, props, useState.
+
+> Day 20 ✅ — Building an Expense Tracker.Biggest React project yet.
 ---
 
 ## 🔗 Find Me
