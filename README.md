@@ -64,6 +64,9 @@
 > Day 20 ✅ — Built and deployed Expense Tracker in React.Categories, totals, filtering, localStorage. 
 🔗 expense-tracker-day20.netlify.app
 > Day 21 ✅ — React Router. Multiple pages in React.No more single page limitations.
+
+> Day 21 ✅ — React Router. Multi-page React app.Home, About, Projects, Contact, 404 page.
+🔗 portfolio-with-multiple-pages.netlify.app
 ---
 
 ## 🔗 Find Me
