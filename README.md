@@ -68,6 +68,8 @@
 🔗 portfolio-with-multiple-pages.netlify.app
 
 > Day 22 ✅ — Tailwind CSS. Utility classes,no more custom CSS files. 10x faster styling.
+
+> Day 23 ✅ — Rebuilding portfolio with React + Tailwind + React Router.
 ---
 
 ## 🔗 Find Me
