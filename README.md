@@ -71,7 +71,7 @@
 
 > Day 23 ✅ — one clear project what i have learnt till now. https://portfolio-using-react-tailwind-router.netlify.app/
 
-> Day 24 ✅ — TypeScript basics. Adding types to JavaScript.
+> Day 24 ✅ — TypeScript basics. Interfaces, typed useState, typed functions, union types.
 ---
 
 ## 🔗 Find Me
