@@ -72,6 +72,8 @@
 > Day 23 ✅ — one clear project what i have learnt till now. https://portfolio-using-react-tailwind-router.netlify.app/
 
 > Day 24 ✅ — TypeScript basics. Interfaces, typed useState, typed functions, union types.
+
+> Day 25 ✅ — Windows crashed. Reinstalled everything.Back to building. Nothing stops the streak.
 ---
 
 ## 🔗 Find Me
