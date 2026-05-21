@@ -73,7 +73,8 @@
 
 > Day 24 ✅ — TypeScript basics. Interfaces, typed useState, typed functions, union types.
 
-> Day 25 ✅ — Windows crashed. Reinstalled everything.Back to building. Nothing stops the streak.
+> Day 25 ✅ — Windows crashed. Reinstalled everything. Back to building. Nothing stops the streak. created notes app
+(https://day25-notes-app.netlify.app/)
 ---
 
 ## 🔗 Find Me
