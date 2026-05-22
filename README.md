@@ -76,7 +76,8 @@
 > Day 25 ✅ — Windows crashed. Reinstalled everything. Back to building. Nothing stops the streak. created notes app
 (https://day25-notes-app.netlify.app/)
 
-> Day 26 ✅ - task manager
+> Day 26 ✅ — TypeScript deep dive. Generics, type guards, utility types. Built a Task Manager App.
+  🔗 github.com/jdbuildscode/Day-26-Task-Manager
 ---
 
 ## 🔗 Find Me
