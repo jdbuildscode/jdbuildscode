@@ -75,6 +75,8 @@
 
 > Day 25 ✅ — Windows crashed. Reinstalled everything. Back to building. Nothing stops the streak. created notes app
 (https://day25-notes-app.netlify.app/)
+
+> Day 26 ✅ - task manager
 ---
 
 ## 🔗 Find Me
