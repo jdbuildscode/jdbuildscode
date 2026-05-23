@@ -79,7 +79,8 @@
 > Day 26 ✅ — TypeScript deep dive. Generics, type guards, utility types. Built a Task Manager App.
   🔗 github.com/jdbuildscode/Day-26-Task-Manager
 
-> Day 27 ✅ —  Diving into custom hooks in React.Cleaner code. Reusable logic. Let's go. 👨‍💻
+> Day 27 ✅ — Custom React Hooks. Built a Budget Tracker with useLocalStorage and useBudget hooks.
+
 ---
 
 ## 🔗 Find Me
