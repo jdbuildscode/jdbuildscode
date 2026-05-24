@@ -81,6 +81,8 @@
 
 > Day 27 ✅ — Custom React Hooks. Built a Budget Tracker with useLocalStorage and useBudget hooks.
 
+> Day 28 ✅ — Context API — global state management.
+
 ---
 
 ## 🔗 Find Me
