@@ -81,8 +81,10 @@
 
 > Day 27 ✅ — Custom React Hooks. Built a Budget Tracker with useLocalStorage and useBudget hooks.
 
-> > Day 28 ✅ — Context API. Built a Shopping Cart with global state, no prop drilling.
-> 
+> Day 28 ✅ — Context API. Built a Shopping Cart with global state, no prop drilling.
+
+> Day 29 ✅ —  Fetching real data from APIs in React.useEffect + fetch + loading states + error handling. 👨‍💻
+
 
 ---
 
