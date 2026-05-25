@@ -83,7 +83,8 @@
 
 > Day 28 ✅ — Context API. Built a Shopping Cart with global state, no prop drilling.
 
-> Day 29 ✅ —  Fetching real data from APIs in React.useEffect + fetch + loading states + error handling. 👨‍💻
+> Day 29 ✅ — API fetching with custom useFetch hook. Built a Country Explorer with search, loading states and error handling.
+ 
 
 
 ---
