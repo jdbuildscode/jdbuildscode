@@ -84,6 +84,8 @@
 > Day 28 ✅ — Context API. Built a Shopping Cart with global state, no prop drilling.
 
 > Day 29 ✅ — API fetching with custom useFetch hook. Built a Country Explorer with search, loading states and error handling.
+
+> Day 30 Today I'm pushing further into React + TypeScript.Building in public. Learning every day.
  
 
 
