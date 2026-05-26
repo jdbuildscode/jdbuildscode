@@ -85,7 +85,7 @@
 
 > Day 29 ✅ — API fetching with custom useFetch hook. Built a Country Explorer with search, loading states and error handling.
 
-> Day 30 Today I'm pushing further into React + TypeScript.Building in public. Learning every day.
+> Day 30 ✅ Country Explorer V2 | React Query, TypeScript, CSS Modules | Data caching, queryKey, queryFn, typed responses |
  
 
 
