@@ -87,7 +87,7 @@
 
 > Day 30 ✅ Country Explorer V2 | React Query, TypeScript, CSS Modules | Data caching, queryKey, queryFn, typed responses |
 
-> Day 31 ✅ Building a Movie Search App with React Query + TMDB API.
+> Day 31 ✅ Movie Search App | React Query, TypeScript, Vite, Tailwind, TMDB API | Bearer token auth, queryKey caching, environment variables, search vs query state |
  
 
 
