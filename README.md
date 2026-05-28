@@ -88,6 +88,8 @@
 > Day 30 ✅ Country Explorer V2 | React Query, TypeScript, CSS Modules | Data caching, queryKey, queryFn, typed responses |
 
 > Day 31 ✅ Movie Search App | React Query, TypeScript, Vite, Tailwind, TMDB API | Bearer token auth, queryKey caching, environment variables, search vs query state |
+
+> Day 32 ✅ Learning Testing with Jest + React Testing Library.
  
 
 
