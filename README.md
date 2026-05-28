@@ -89,7 +89,7 @@
 
 > Day 31 ✅ Movie Search App | React Query, TypeScript, Vite, Tailwind, TMDB API | Bearer token auth, queryKey caching, environment variables, search vs query state |
 
-> Day 32 ✅ Learning Testing with Jest + React Testing Library.
+> Day 32 ✅ Testing - Movie Search App | Jest, React Testing Library, ts-jest | Component rendering, user interaction, API mocking, 8 passing tests |
  
 
 
